@@ -1,0 +1,5 @@
+nodejs
+npm
+ffmpeg
+chromium
+fonts-freefont-ttf
